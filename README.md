@@ -2,7 +2,7 @@
   "Detect_installed": [
     {
       "package": "com.google.android.youtube",
-      "status": false,
+      "status": true,
       "installed_error_message": "closed!"
     }
   ],
@@ -10,8 +10,8 @@
 
     {
       "package": "com.animohukobvtb.pro",
-      "status": false,
-      "not_installed_error_message": "error404"
+      "status": true,
+      "not_installed_error_message": "need update.."
     }
   ]
 }
